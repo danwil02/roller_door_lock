@@ -1,0 +1,10 @@
+{
+    "SSID": "my_wifi_SSID",
+    "Password": "my_wifi_password",
+    "Name": "Roller Door Lock",
+    "MQTT": {
+        "Host": "10.10.10.10",
+        "User": "user",
+        "Password": "pass"
+    }
+}
